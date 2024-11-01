@@ -1,0 +1,35 @@
+.trollMessage, .trollWarning, .trollError
+{
+	font-weight: bold;
+	padding: 3px;
+	margin-bottom: 1px;
+	width: 48%;
+}
+
+.trollMessage
+{
+	background-color: #00ff00;
+	color: #ffffff;
+}
+
+.trollWarning
+{
+	background-color: Yellow;
+}
+
+.trollError
+{
+	background-color: #ff0000;
+	color: #ffffff;
+}
+
+.trollConfigWrap h3
+{
+	margin-bottom: 5px;
+}
+
+.trollConfigPart
+{
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
